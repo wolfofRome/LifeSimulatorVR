@@ -1,7 +1,4 @@
-# Cindy's Bad Luck - a Basic Life Support simulator VR
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
-![GitHub Release Date](https://img.shields.io/github/release-date/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
-![GitHub last commit](https://img.shields.io/github/last-commit/ClaudiaRaffaelli/Cindy-s-Bad-Luck-BLS-VR)
+# Life Support simulator VR
 
 <p align="center">
 Click below to watch the Trailer of the game on YouTube:
@@ -29,11 +26,4 @@ To view some Gameplay of the game, click on the video below:
 If you're only interested to the ```.apk``` file to play the game just check out the ```Releases``` section on this page to download the latest one. If you want to know more about the implementation you can have a look at the ```Script``` folder.
 
 ## Authors
-- [Abdullah Chaudhry](https://github.com/chabdullah)
-- [Claudia Raffaelli](https://github.com/ClaudiaRaffaelli)
-
-## Acknowledgments
-Computer Graphics and 3D project - Computer Engineering Master Degree @[University of Florence](https://www.unifi.it/changelang-eng.html)
-
-Music in game and trailer from [Bensound Royalty free music](https://www.bensound.com/royalty-free-music).
-Assets sourced from [Unity Asset Store](https://assetstore.unity.com) and [Mixamo](https://www.mixamo.com).
+- wolfofRome
